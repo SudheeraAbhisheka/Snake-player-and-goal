@@ -1,0 +1,2 @@
+$make
+$./maze map.txt
